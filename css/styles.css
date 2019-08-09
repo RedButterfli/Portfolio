@@ -1,0 +1,19 @@
+h1 {
+  font-family: serif;
+  center
+}
+
+body {
+  font-style: oblique;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.projects {
+  margin: 12px;
+  border: 2px solid blue;
+  padding: 4px;
+  background-color: orange;
+}
